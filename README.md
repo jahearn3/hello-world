@@ -1,3 +1,4 @@
 # hello-world
 my first repository
-I want to write a bit 
+I have been coding for **years**.
+I *expect* to get my PhD in May 2022. 
